@@ -1,0 +1,7 @@
+1.you cannot start with number 
+ex:-
+        1invalid  (invalid)
+        valid1      (valid).
+2.we can use only '_' and '$'.
+3.we can't use white spaces.
+4.start with small  letter and use thr 
